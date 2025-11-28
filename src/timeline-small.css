@@ -1,0 +1,9 @@
+/* Make checkboxes smaller */
+.small-checkbox .p-checkbox-box {
+    width: 12px !important;
+    height: 12px !important;
+}
+
+.small-checkbox .p-checkbox-icon {
+    font-size: 8px !important;
+}
